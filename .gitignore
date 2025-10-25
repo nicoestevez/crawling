@@ -10,6 +10,4 @@ wheels/
 .venv
 
 # Other files
-/docs
 .env
-/chunks
