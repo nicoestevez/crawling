@@ -2,13 +2,14 @@ import os
 from anthropic.types.message_create_params import MessageCreateParamsNonStreaming
 from anthropic.types.messages.batch_create_params import Request
 
-def create_message_batch(model: str, prompt: list[dict], custom_id: str) -> Request:
+def create_message_batch(model: str, prompt: list[dict], custom_id: str, max_tokens: int = 64000) -> Request:
     """Create a batch of messages for the API.
 
     Args:
         model (str): The model to use for message generation.
         prompt (list[dict]): The list of messages to include in the batch.
         custom_id (str): A custom ID for the batch request.
+        max_tokens (int): The maximum number of tokens for the batch.
 
     Returns:
         Request: The constructed batch request.
@@ -18,7 +19,8 @@ def create_message_batch(model: str, prompt: list[dict], custom_id: str) -> Requ
         custom_id=custom_id,
         params=MessageCreateParamsNonStreaming(
             model=model,
-            messages=prompt
+            messages=prompt,
+            max_tokens=max_tokens
         )
     )
 
@@ -35,7 +37,7 @@ def get_message_batches(model: str, prompt_template: str, chunk_folder: str) -> 
     """
     batches = []
     if os.path.isdir(chunk_folder):
-        for fname in sorted(os.listdir(chunk_folder)):
+        for index, fname in enumerate(sorted(os.listdir(chunk_folder))):
             if not fname.lower().endswith('.md'):
                 continue
 
