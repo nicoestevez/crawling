@@ -5,8 +5,7 @@ def chunk_file_content(content: str, prompt_template: str, model: str, max_token
     """Split `content` into chunks so that when inserted into the prompt template
     and wrapped as a single user message, the token count does not exceed max_tokens.
 
-    This is a greedy word-based splitter: it accumulates words until adding the next
-    word would push the token count over the limit, then starts a new chunk.
+    Optimized version with batched token counting and simplified logic.
     
     Args:
         content (str): The full text content to be chunked.
@@ -20,75 +19,84 @@ def chunk_file_content(content: str, prompt_template: str, model: str, max_token
     words = content.split()
     chunks = []
     total_words = len(words)
-
-    prompt_word_count = len(prompt_template.split())
-    max_candidate_words = max(1, int(max_tokens * 5) - prompt_word_count)
-
+    
+    # Calculate overhead tokens from prompt template (once)
+    template_overhead = count_tokens(model, [{"role": "user", "content": prompt_template.replace("{{content}}", "")}])
+    effective_max_tokens = max_tokens - template_overhead
+    
+    # Estimate words per token (conservative: ~0.75 words/token for English)
+    # This helps us make better initial guesses
+    estimated_words_per_chunk = max(1, int(effective_max_tokens * 0.6))
+    
     idx = 0
     while idx < total_words:
-        tentative_end = min(total_words, idx + max_candidate_words)
-
-        candidate_words = words[idx:tentative_end]
-        candidate_text = ' '.join(candidate_words)
+        # Start with estimated chunk size
+        tentative_end = min(total_words, idx + estimated_words_per_chunk)
+        
+        # Build candidate and count tokens
+        candidate_text = ' '.join(words[idx:tentative_end])
         full_prompt = prompt_template.replace("{{content}}", candidate_text)
-        messages = [{"role": "user", "content": full_prompt}]
-
-        t = count_tokens(model, messages)
-
+        t = count_tokens(model, [{"role": "user", "content": full_prompt}])
+        
         if t <= max_tokens:
-            # Candidate fits. Try to expand further (exponential then binary) to reduce number of chunks
-            lower_bound = tentative_end
-            higher_bound = min(total_words, tentative_end * 2)
-            # Expand exponentially to find an upper bound (limited by total_words)
-            while lower_bound < higher_bound:
-                try_words = words[idx:higher_bound]
-                try_text = prompt_template.replace("{{content}}", ' '.join(try_words))
-                t_try = count_tokens(model, [{"role": "user", "content": try_text}])
-
-                if t_try <= max_tokens:
-                    lower_bound = higher_bound
-                    higher_bound = min(total_words, higher_bound * 2)
-                    if lower_bound == total_words:
-                        break
+            # Try to expand: use larger steps initially
+            step = max(10, estimated_words_per_chunk // 4)
+            
+            while tentative_end < total_words:
+                next_end = min(total_words, tentative_end + step)
+                candidate_text = ' '.join(words[idx:next_end])
+                full_prompt = prompt_template.replace("{{content}}", candidate_text)
+                t_next = count_tokens(model, [{"role": "user", "content": full_prompt}])
+                
+                if t_next <= max_tokens:
+                    tentative_end = next_end
+                    t = t_next
+                    # Adaptive step: if we're far from limit, keep large steps
+                    if t < max_tokens * 0.8:
+                        step = max(step, estimated_words_per_chunk // 4)
+                    else:
+                        step = max(1, step // 2)  # Reduce step as we approach limit
                 else:
+                    # Overshot: binary search in the gap
+                    left = tentative_end
+                    right = next_end - 1
+                    
+                    while left < right:
+                        mid = (left + right + 1) // 2
+                        mid_text = ' '.join(words[idx:mid])
+                        mid_prompt = prompt_template.replace("{{content}}", mid_text)
+                        t_mid = count_tokens(model, [{"role": "user", "content": mid_prompt}])
+                        
+                        if t_mid <= max_tokens:
+                            left = mid
+                        else:
+                            right = mid - 1
+                    
+                    tentative_end = left
                     break
-
-            left = lower_bound
-            right = min(total_words, higher_bound)
-            best = left
+            
+            chunks.append(' '.join(words[idx:tentative_end]))
+            idx = tentative_end
+            
+        else:
+            # Initial guess was too large: binary search downward
+            left = idx + 1
+            right = tentative_end - 1
+            
             while left < right:
                 mid = (left + right + 1) // 2
-                mid_text = prompt_template.replace("{{content}}", ' '.join(words[idx:mid]))
-                t_mid = count_tokens(model, [{"role": "user", "content": mid_text}])
+                mid_text = ' '.join(words[idx:mid])
+                mid_prompt = prompt_template.replace("{{content}}", mid_text)
+                t_mid = count_tokens(model, [{"role": "user", "content": mid_prompt}])
+                
                 if t_mid <= max_tokens:
-                    best = mid
                     left = mid
                 else:
                     right = mid - 1
-
-            end = max(idx + 1, best)
-            chunks.append(' '.join(words[idx:end]))
-            idx = end
-        else:
-            left = idx + 1
-            right = tentative_end
-            best = left
-            while left <= right:
-                mid = (left + right) // 2
-                mid_text = prompt_template.replace("{{content}}", ' '.join(words[idx:mid]))
-                t_mid = count_tokens(model, [{"role": "user", "content": mid_text}])
-                if t_mid <= max_tokens:
-                    best = mid
-                    left = mid + 1
-                else:
-                    right = mid - 1
-
-            if best <= idx:
-                best = idx + 1
-
-            chunks.append(' '.join(words[idx:best]))
-            idx = best
-
+            
+            chunks.append(' '.join(words[idx:left]))
+            idx = left
+    
     return chunks
 
 def create_chunk_folder(folder_path: str) -> None:
