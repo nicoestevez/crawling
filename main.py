@@ -12,7 +12,7 @@ ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 FOLDER_PATH = os.path.join(CURRENT_DIR, FOLDER_NAME)
 CHUNKS_DIR = os.path.join(CURRENT_DIR, "chunks")
-CONTEXT_WINDOW = 200000
+CONTEXT_WINDOW = 6500
 
 client = Anthropic(api_key=ANTHROPIC_API_KEY)
 
@@ -38,5 +38,5 @@ if __name__ == "__main__":
         requests=batches
     )
 
-    with open(os.path.join(CURRENT_DIR, "message_batch_id.txt"), "w", encoding='utf-8') as mb_file:
-        mb_file.write(message_batch.id)
+    with open(os.path.join(CURRENT_DIR, "message_batch_id.txt"), "a", encoding='utf-8') as mb_file:
+        mb_file.write(f"{message_batch.id}\n")
