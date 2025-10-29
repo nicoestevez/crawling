@@ -143,3 +143,4 @@ Subject,Relation,Object
 
 # INPUT
 FRAGMENT TO ANALYZE:
+{{content}}
