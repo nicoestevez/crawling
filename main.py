@@ -6,7 +6,7 @@ from chunks import create_chunked_files
 load_dotenv(override=True)
 
 FOLDER_NAME = "docs"
-PROMPT_FILE = "prompt.md"
+PROMPT_FILE = "prompt_eeuu.md"
 MODEL = "claude-sonnet-4-5"
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -38,5 +38,5 @@ if __name__ == "__main__":
         requests=batches
     )
 
-    with open(os.path.join(CURRENT_DIR, "message_batch_id.txt"), "a", encoding='utf-8') as mb_file:
+    with open(os.path.join(CURRENT_DIR, "message_batch_id_eeuu.txt"), "a", encoding='utf-8') as mb_file:
         mb_file.write(f"{message_batch.id}\n")
