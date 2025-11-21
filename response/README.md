@@ -14,3 +14,9 @@ Inesperadamente, el orden alfabético nos permitió encontrar y eliminar los sig
 - Institucos/establecimientos: tiánguez (mercado público), fundición real, iglesia
 - Organizaciones/Unidades: Canton militar, bandas de Pincheira, montoneros
 ```
+
+Por otra parte, se eliminaron también 'encabezados' inesperados del output del LLM extractor que se interpretaron como tuplas. Por ejemplo:
+
+```
+A continuación, presento las tripletas extraídas del fragmento, siguiendo estrictamente los principios de predicados estáticos y entidades inequívocas:
+```
