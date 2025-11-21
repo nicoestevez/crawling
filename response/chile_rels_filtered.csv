@@ -4,19 +4,19 @@ Sujeto,Relación,Objeto,origen
 18 de septiembre,tipo de fecha,Aniversario de la creación del primer gobierno nacional de Chile,chile4_3412
 750 soldados trompetas,sueldo asignado,100 pesos,chile4_14944
 A New Description of the South America,año de publicación,1774,chile4_16324
-A New voyage and description of the isthmus of America,fecha de publicación,1699,chile4_12475
+A New voyage and description of the isthmus of America,año de publicación,1699,chile4_12475
 A description of Patagonia and the adjoining parts of South America,lugar de publicación,Londres,chile1_359
 A description of Patagonia and the adjoining parts of South America,año de publicación,1774,chile1_360
-A voyage round the world,fecha de publicación,1707,chile4_14980
+A voyage round the world,año de publicación,1707,chile4_14980
 A voyage round the world,lugar de publicación,Londres,chile4_14981
-A voyage round the world,fecha de publicación,1777,chile4_16114
-A voyage round the world,fecha de publicación,1697,chile4_12472
+A voyage round the world,año de publicación,1777,chile4_16114
+A voyage round the world,año de publicación,1697,chile4_12472
 A voyage round the world,autor de,Jorge Forster,chile4_16112
 A voyage round the world,tema,expedición de Dampier al Mar del Sur en 1703 y 1704,chile4_14982
 A voyage round the world,lugar de publicación,Londres,chile4_16113
 A voyage towards the South Pole and round the world,número de volúmenes,dos volúmenes en 4.0,chile4_16108
 A voyage towards the South Pole and round the world,lugar de publicación,Londres,chile4_16107
-A voyage towards the South Pole and round the world,fecha de publicación,1773,chile4_16106
+A voyage towards the South Pole and round the world,año de publicación,1773,chile4_16106
 A voyage towards the South Pole and round the world,autor de,James Cook,chile4_16109
 A voyage towards the South Pole and round the world,complementador,capitán Fourneaux,chile4_16110
 "A voyage towards the south pole, performed in the years 1822-1824",lugar de publicación,Londres,chile1_362
@@ -67,7 +67,7 @@ Academia de la Historia de Madrid,promotor de,edición completa de Historia gene
 Academia de práctica de leyes,año de creación,1778,chile4_19320
 Academia de práctica de leyes,relación institucional con,Universidad de San Felipe,chile4_19321
 Accidente en el Biobío,número de soldados ahogados,veintitrés hombres,chile1_11090
-Account of several late voyages and discoveries,fecha de publicación,1694,chile4_11773
+Account of several late voyages and discoveries,año de publicación,1694,chile4_11773
 "Aceite de los Valles de Sotaquí, Salsipuedes, Andacollo y Liman",calificación,mejor de la costa,chile4_13304
 Aceite de oliva,lugar de importación de origen,España,chile4_18409
 Aciún,evento relacionado,deposición por el pueblo de Concepción,chile4_19770
@@ -1769,7 +1769,7 @@ Araucanía,límite oriente,cordillera de los Andes,chile1_3448
 Araucanía,límite sur,río Toltén,chile1_3447
 Araucanía,límite norte,río Biobío y sus afluentes,chile1_3446
 Araucanía,límite poniente,cordillera de la Costa,chile1_3449
-Araucanía y sus habitantes,fecha de publicación,1845,chile1_3532
+Araucanía y sus habitantes,año de publicación,1845,chile1_3532
 Araucanía y sus habitantes,lugar de publicación,Santiago,chile1_3533
 Arauco,asiento del gobierno militar comarcal,plaza de Arauco,chile4_2892
 Arauco,lugar de construcción de,fuerte español,chile1_6556
@@ -1905,7 +1905,7 @@ Artículo en periódico de París,fecha de publicación,3 de enero de 1824,chile
 Artículo la monja-alférez,publicación en,"Revista de Santiago, tomo I",chile4_14427
 Artículo la monja-alférez,año de publicación,1872,chile4_14426
 Artículo la monja-alférez,páginas en Revista de Santiago,225-234,chile4_14428
-Artículo sobre censura de libros en El Araucano,fecha de publicación,22 de noviembre,chile4_5525
+Artículo sobre censura de libros en El Araucano,fecha de publicación (sin año),22 de noviembre,chile4_5525
 Artículo sobre doctrina Monroe en Revue de droit international,año de publicación,1896,chile4_4095
 Artículos de Sarmiento sobre enclaustramiento,ubicación en obra,"tomo II, pág. 91-97",chile4_1099
 Arzobispo Mogrovejo,canonizado con nombre de,Santo Toribio,chile1_8032
@@ -2049,7 +2049,7 @@ Aviles,período como virrei de Buenos Aires,hasta junio de 1801,chile4_17257
 Aviles,cargo de gobernador de,virreinato del Perú,chile4_17258
 Aviles,cargo de virrei de,Buenos Aires,chile4_17256
 Aviso de la victoria,fecha de llegada a Santiago,17 de enero,chile4_9658
-Aviso histórico político geográfico,fecha de publicación,1740,chile4_8120
+Aviso histórico político geográfico,año de publicación,1740,chile4_8120
 Aviso histórico político geográfico,lugar de publicación,Madrid,chile4_8121
 Ayudante Antonio Mas,cargo de,Emisario de Quintanilla para Olañeta,chile4_325
 Ayudante Pedro Aguilera,cargo de,ayudante,chile4_5123
@@ -2134,7 +2134,7 @@ Bandas de los Pincheiras,estado al momento de promulgación constitución 1833,a
 Bando de Juan Andrés de Ustáriz,contenido normativo,vecinos de Santiago en traje militar y apertura de cuarteles,chile4_15079
 Bando de Juan Andrés de Ustáriz,fecha de publicación,18 de mayo de 1709,chile4_15078
 Bando de buen gobierno de O'Higgins,tema regulado,Entierros y uso del luto en familias,chile4_16253
-Bando de buen gobierno de O'Higgins,fecha de publicación,Septiembre de 1793,chile4_16252
+Bando de buen gobierno de O'Higgins,mes de publicación,Septiembre de 1793,chile4_16252
 Bando de reclutamiento para Chile,fecha de publicación en Lima,15 de enero de 1570,chile1_6284
 Bando del 11 de julio de 1709,contenido normativo,prohibición de comercio con marinos franceses,chile4_15136
 Bando del 20 de noviembre de 1713,lugar de publicación,Santiago,chile4_15148
@@ -3539,7 +3539,7 @@ Canterac,fecha de partida desde Jauja,2 de junio de 1823,chile4_2203
 Canterac,salida desde,Jaya el 1 de agosto,chile4_4212
 Canterac,comandante de,cerca de nueve mil hombres,chile4_4213
 Canterac,emisor de parte hacia,virrey,chile4_4222
-Canto de Quintana sobre expedición de vacunación,fecha de publicación,diciembre de 1806,chile4_17635
+Canto de Quintana sobre expedición de vacunación,mes de publicación,diciembre de 1806,chile4_17635
 Canto entusiástico en honor y loas de los forzudos mancebos del Lazo,tema de,Batalla del Lazo del 20 de setiembre de 1807,chile4_17916
 Canto entusiástico en honor y loas de los forzudos mancebos del Lazo,tipo de obra,composición poética en octavas,chile4_17917
 Cantón militar entre ríos Cachapoal y Maule,fecha de creación,1825-1826,chile4_780
@@ -5245,7 +5245,7 @@ Compendio de historia de America,cantidad de tomos,dos,chile1_1054
 Compendio de historia de America,cantidad de páginas,564,chile1_1055
 Compendio de historia de America,año de publicación,1865,chile1_1053
 Compendio de historia de América,cantidad de volúmenes,dos volúmenes,chile4_7448
-Compendio de historia de América,fecha de publicación,1865,chile4_7447
+Compendio de historia de América,año de publicación,1865,chile4_7447
 Compendio de historia de Chile de Quiroga,publicado en,tomo 23 del Semanario erudito,chile1_9367
 Compendio de historia de Chile de Quiroga,lugar de publicación,Madrid,chile1_9366
 Compendio de historia de Chile de Quiroga,reimpreso en,tomo XI de la Colección de historiadores de Chile,chile1_9370
@@ -6125,7 +6125,7 @@ Crónica de Cieza de León segunda parte,lugar de publicación,Madrid,chile1_667
 Crónica de Góngora Marmolejo,año de escritura,1575,chile1_3635
 Crónica de Góngora Marmolejo,lugar de conservación,biblioteca de la Academia de la Historia de Madrid,chile1_3636
 Crónica de Góngora Marmolejo,autor,Góngora Marmolejo,chile1_7074
-Crónica de La Serena,fecha de publicación,1871,chile4_12466
+Crónica de La Serena,año de publicación,1871,chile4_12466
 Crónica de Marino de Lobera,revisor,jesuita Escobar,chile1_4037
 Crónica de Marino de Lobera,lugar de revisión,Lima,chile1_4038
 Crónica de Marino de Lobera,parte dedicada a García Hurtado de Mendoza,primera parte del libro segundo,chile1_4036
@@ -6197,7 +6197,7 @@ Cuerpos de los jesuitas,lugar de sepultura inicial,Lebu,chile4_7779
 Cuerpos de los jesuitas,lugar de traslado posterior,Concepción,chile4_7780
 Cuestión de Zapatán,ubicación en,camino entre Santiago y Valparaíso,chile4_19218
 Cuestión de límites entre Chile i la República Arjentina,lugar de publicación,Santiago,chile1_1417
-Cuestión de límites entre Chile i la República Arjentina,fecha de publicación,1879,chile1_1418
+Cuestión de límites entre Chile i la República Arjentina,año de publicación,1879,chile1_1418
 Cuestores,actividad de,vender bulas e indulgencias y pedir donativos,chile1_8020
 Cuestores o demandantes,denominación popular,buleros,chile1_8019
 Culto de Nuestra Señora del Rosario,número de mayordomos de cofradía,cuatro mayordomos,chile4_18322
@@ -6505,7 +6505,7 @@ Depons,estimación de habitantes de capitanía general de Venezuela,"728,000",ch
 Depositaria de La Serena,producto de venta,1.200 pesos,chile1_8080
 Depositarias de Santiago,producto de venta desde 1591 hasta principios de 1598,7.800 pesos,chile1_8079
 Der Zeeuarrt,lugar de publicación,Amsterdam,chile4_10160
-Der Zeeuarrt,fecha de publicación,1634,chile4_10159
+Der Zeeuarrt,año de publicación,1634,chile4_10159
 Derecho de capitación sobre indígenas del archipiélago de Chiloé,producción de impuestos,5000 pesos,chile4_16690
 Derrota de Lautaro,fecha de ocurrencia,abril de 1557,chile1_5777
 Derrota de Lautaro,ubicación,orillas del Mataquito,chile1_5778
@@ -6548,7 +6548,7 @@ Description e historia de Paraguay y Río de la Plata,año de publicación,1847,
 Description e historia de Paraguay y Río de la Plata,lugar de publicación,Madrid,chile4_3198
 Description e historia de Paraguay y Río de la Plata,autor,Félix de Azara,chile4_3197
 Description physique de la République Argentine,lugar de publicación,París,chile1_1476
-Description physique de la République Argentine,fecha de publicación,1876,chile1_1475
+Description physique de la République Argentine,año de publicación,1876,chile1_1475
 Descubrimiento de minas de plata en Copiapó,ubicación,distrito de Copiapó,chile4_7115
 Descubrimiento de minas de plata en Copiapó,fecha de ocurrencia,1832,chile4_7114
 Descubrimiento y conquista de Chile,lugar y año de publicación,"Santiago, 1862",chile1_3613
@@ -8640,7 +8640,6 @@ Eduardo Irving,característica de juicio,inclinado a lo paradojal,chile4_19953
 Eduardo Irving,característica personal,hombre de gran talento,chile4_19952
 Edward B. Tylor,autor de,Primitive culture,chile1_193
 Edward Cooke,autor de,A voyage to the South Sea and round the world,chile4_15120
-Edward Cooke,fecha de publicación de su obra,"Londres, 1712",chile4_15121
 Edward Fenton,líder de,expedición corsaria inglesa de 1582,chile1_7323
 Edward Harris,cargo de,guardia marina en corbeta británica,chile4_2722
 Egas Venegas,cargo de,oidor de la Audiencia de Chile,chile1_6144
@@ -8750,7 +8749,7 @@ Ejército reunido en Ancud y sus contornos,cantidad estimada,"2,300 hombres",chi
 El Araucano,medio donde Manuel José Gandarillas sostenía,sus opiniones sobre la constitución,chile4_6951
 El Araucano,tipo de entidad,Periódico,chile4_5352
 El Araucano,posición política de apoyo a,gobierno chileno,chile4_7519
-El Araucano,fecha de publicación sobre campaña contra Pincheiras,24 de marzo,chile4_5303
+El Araucano,fecha de publicación (sin año) sobre campaña contra Pincheiras,24 de marzo,chile4_5303
 El Araucano,tipo de publicación,periódico,chile4_5302
 El Araucano,tipo de publicación,periódico oficial de Chile,chile4_6020
 El Araucano,número de edición citada,núm. 112,chile4_6814
@@ -8784,7 +8783,7 @@ El Araucano núm. 54,fecha de publicación,24 de setiembre de 1831,chile4_4927
 El Araucano núm. 59,fecha de publicación,29 de octubre de 1831,chile4_6813
 El Araucano número 108,fecha de publicación,5 de octubre,chile4_4978
 El Araucano número 36,fecha de publicación,21 de mayo de 1831,chile4_7628
-El Araucano número 50,fecha de publicación,tres días después del 24 de agosto de 1831,chile4_4897
+El Araucano número 50,fecha de publicación,27 de agosto de 1831,chile4_4897
 El Araucano número 551,fecha de publicación,19 de marzo de 1841,chile4_6285
 El Araucano número 58,fecha de publicación,23 de octubre,chile4_4898
 El Araucano número 75,fecha de publicación,18 de febrero de 1832,chile4_7611
@@ -8851,7 +8850,7 @@ El Mensajero de Londres,lugar de publicación,Londres,chile4_1785
 El Mercurio Antártico de Santiago,fecha de publicación citada,4 de mayo de 1824,chile4_4064
 El Mercurio de Valparaíso,postura respecto a José Joaquín de Mora,crítica hostil,chile4_6682
 El Mercurio de Valparaíso,tipo de publicación,Periódico,chile4_6076
-El Mercurio de Valparaíso,fecha de publicación mencionada,11 de mayo de 1832,chile4_5052
+El Mercurio de Valparaíso,fecha de publicación,11 de mayo de 1832,chile4_5052
 El Molle,ubicación respecto a Copiapó,veinte leguas al sur,chile4_5256
 El Molle,sitio de,fundición de cobre de Miguel Gallo,chile4_5257
 El Monitor Peruano,periódico publicado en,Lima,chile4_5937
@@ -8865,7 +8864,7 @@ El Observador eclesiástico,fecha de primera publicación,21 de junio,chile4_110
 El Orinoco ilustrado,lugar de publicación,Madrid,chile1_425
 El Orinoco ilustrado,año de publicación,1741,chile1_426
 El País,tipo de publicación,Periódico,chile4_7297
-El Perú,fecha de publicación,1876,chile1_1401
+El Perú,año de publicación,1876,chile1_1401
 El Perú,lugar de publicación,Lima,chile1_1400
 El Tizón,tipo de publicación,periódico,chile4_59
 El Tizón republicano,fecha de primera publicación,24 de febrero,chile4_3089
@@ -8882,8 +8881,8 @@ El Valdiviano federal,director de,José Miguel Infante,chile4_4947
 El Valdiviano federal,medio donde José Miguel Infante discutía,cuestiones sobre la constitución,chile4_6953
 El Valdiviano federal,número de edición,47,chile4_4928
 El Valdiviano federal,tipo de recurso,periódico,chile4_4841
-El Valdiviano federal núm. 47,fecha de publicación,11 de octubre,chile4_4929
-El Valdiviano federal número 61,fecha de publicación,1º de setiembre de 1832,chile4_4965
+El Valdiviano federal núm. 47,fecha de publicación (sin año),11 de octubre,chile4_4929
+El Valdiviano federal número 61,fecha de publicación,1 de septiembre de 1832,chile4_4965
 "El Valdiviano federal, núm. 64",fecha de publicación,23 de noviembre de 1832,chile4_6857
 El Vasauro,número de cantos,once cantos,chile4_14446
 El Vasauro,número de octavas reales,1.230 octavas reales,chile4_14447
@@ -8920,7 +8919,7 @@ El felicísimo viaje del mui alto y mui poderoso príncipe Phelippe,extensión,3
 El felicísimo viaje del mui alto y mui poderoso príncipe Phelippe,lugar de publicación,Amberes,chile1_5216
 El felicísimo viaje del mui alto y mui poderoso príncipe Phelippe,año de publicación,1552,chile1_5217
 El felicísimo viaje del mui alto y mui poderoso príncipe Phelippe,tema,fiestas y honores del Príncipe,chile1_5219
-El interrogante respondiente,fecha de publicación de representación,6 de junio,chile4_1095
+El interrogante respondiente,fecha de publicación (sin año) de representación,6 de junio,chile4_1095
 El libertador y compañeros de armas,lugar de publicación,Arequipa,chile4_3237
 El libertador y compañeros de armas,año de publicación,1830,chile4_3238
 El libro de la Plata,lugar de publicación,Santiago,chile4_5282
@@ -8930,7 +8929,7 @@ El libro de la plata,año de publicación,1882,chile4_4503
 El libro del cobre,lugar de publicación,Santiago,chile4_4507
 El libro del cobre,año de publicación,1883,chile4_4506
 El niño instruido por la divina palabra,autor,fray Manuel de San José,chile4_19267
-El nímio correrpansal,fecha de publicación,mayo de 1823,chile4_1070
+El nímio correrpansal,mes de publicación,mayo de 1823,chile4_1070
 El nímio correrpansal,número de ediciones publicadas,dos números,chile4_1071
 El terremoto del 13 de febrero de 1647,año de publicación,1882,chile4_14491
 Elbert Crispijsen,portador de noticia de,ocupación de Valdivia,chile4_10237
@@ -9408,7 +9407,7 @@ Expedición de Malaspina,fecha de llegada a puerto de San Carlos en Chiloé,10 d
 Expedición de Malaspina,fecha de llegada al archipiélago,5 de febrero de 1790,chile4_16875
 Expedición de Malaspina,fecha de partida desde Santiago,1 de marzo de 1794,chile4_16478
 Expedición de Malaspina,fecha de llegada a embocadura del río Negro,24 de noviembre de 1789,chile4_16386
-Expedición de Narborough,fecha de publicación de relación,1694,chile4_11771
+Expedición de Narborough,año de publicación de relación,1694,chile4_11771
 Expedición de Narborough,lugar de publicación de relación,Londres,chile4_11772
 Expedición de Narborough,año de,1670,chile4_12012
 Expedición de Oliverio van Noort,cantidad de naves,cuatro naves,chile1_9297
@@ -9509,7 +9508,7 @@ Exposición de Valdes,tema de,campaña de Moquegua,chile4_1966
 Exposición de los derechos del obispo Rodríguez sobre la diócesis de Santiago,fecha de publicación en Santiago,enero de 1826,chile4_244
 Exposición de los derechos del obispo Rodríguez sobre la diócesis de Santiago,lugar de publicación original,Santiago,chile4_245
 Exposición de mi dictámen en el compromiso i consulta legal de los hijos de don Miguel Antonio Bravo de Soravia Irarrázaval,extensión,31 páginas,chile4_7113
-Exposición de mi dictámen en el compromiso i consulta legal de los hijos de don Miguel Antonio Bravo de Soravia Irarrázaval,fecha de publicación,1835,chile4_7112
+Exposición de mi dictámen en el compromiso i consulta legal de los hijos de don Miguel Antonio Bravo de Soravia Irarrázaval,año de publicación,1835,chile4_7112
 Exposición de religiosos,lugar de redacción,Valdivia,chile1_8790
 Exposición del general Martínez,fecha de publicación,4 de febrero de 1824,chile4_3175
 Exposición del general Martínez,reproducida en,"Colección de Odriozola, tomo VI, páginas 77-1",chile4_3176
@@ -13188,11 +13187,11 @@ Historia de Alejandro de Quinto Curcio,lugar de publicación,Madrid,chile4_14541
 Historia de Alejandro de Quinto Curcio,año de publicación,1699,chile4_14540
 Historia de América,autor de,abate francés Guillermo Tomas Raynal,chile4_19387
 Historia de América,autor de,Guillermo Robertson,chile4_19390
-Historia de América por Raynal,fecha de publicación,1770,chile4_19388
+Historia de América por Raynal,año de publicación,1770,chile4_19388
 Historia de América por Raynal,lugar de publicación,Amsterdam,chile4_19389
 Historia de América por Robertson,lugar de publicación,Londres,chile4_19393
 Historia de América por Robertson,idioma original,inglés,chile4_19391
-Historia de América por Robertson,fecha de publicación,1777,chile4_19392
+Historia de América por Robertson,año de publicación,1777,chile4_19392
 Historia de Chiir de Córdoba y Figueroa,referencia a,Pedro Ugarte de la Hermosa,chile4_8778
 Historia de Chile,autor mencionado,Jerónimo de Vivar,chile1_5431
 Historia de Chile (Olivares),colección de publicación,Historias de Chile,chile4_19563
@@ -13230,7 +13229,7 @@ Historia de abiponibus,tema de,indios del Paraguay,chile1_984
 Historia de abiponibus,año de publicación,1784,chile1_983
 Historia de don Felipe IV: rey de las Españas,lugar de publicación,Barcelona,chile1_8952
 Historia de don Felipe IV: rey de las Españas,año de publicación,1634,chile1_8953
-Historia de la Compañía de Jesús,fecha de publicación,1755,chile4_8955
+Historia de la Compañía de Jesús,año de publicación,1755,chile4_8955
 Historia de la Compañía de Jesús,lugar de publicación,Madrid,chile4_8956
 Historia de la Compañía de Jesús,número de volúmenes publicados,dos,chile4_8957
 Historia de la Compañía de Jesús en Chile,autor de introducción,autor del fragmento,chile4_19578
@@ -13266,7 +13265,7 @@ Historia de la prensa periódica de la República Oriental del Uruguay,año de p
 Historia de la provincia de Philipinas del padre Murillo,año de publicación,1741,chile4_16580
 Historia de la provincia de Philipinas del padre Murillo,lugar de publicación,Manila,chile4_16579
 Historia de la repoblación de Valdivia,lugar de publicación,Lima,chile4_14371
-Historia de la repoblación de Valdivia,fecha de publicación,1647,chile4_14370
+Historia de la repoblación de Valdivia,año de publicación,1647,chile4_14370
 Historia de la revolución de Colombia,edición,2.ª edición,chile4_5897
 Historia de la revolución hispano-americana,protector de publicación,Rey de España,chile4_5634
 Historia de la revolución hispano-americana de Torrente,referencia específica,Capítulo III del tomo III,chile4_3204
@@ -13297,10 +13296,10 @@ Historia del Perú,año de publicación,1571,chile4_13942
 Historia del Perú de Diego Fernández,año de impresión,1571,chile1_645
 Historia del Perú de Diego Fernández,lugar de publicación,Sevilla,chile1_4497
 Historia del Perú de Diego Fernández,lugar de publicación,Sevilla,chile1_2543
-Historia del Perú de Diego Fernández,fecha de publicación,1571,chile1_3496
+Historia del Perú de Diego Fernández,año de publicación,1571,chile1_3496
 Historia del Perú de Diego Fernández,parte y capítulo citados,"part. II, lib. II, cap. 37",chile1_3497
 Historia del Perú de Diego Fernández,ubicación del relato del viaje de Alderete,"parte II, lib. II, cap. 3",chile1_3886
-Historia del Perú de Diego Fernández,fecha de publicación,1571,chile1_2542
+Historia del Perú de Diego Fernández,año de publicación,1571,chile1_2542
 Historia del Perú de Diego Fernández,lugar de publicación,Sevilla,chile1_3884
 Historia del Perú de Diego Fernández,año de publicación,1571,chile1_4498
 Historia del Perú de Diego Fernández,año de publicación,1571,chile1_3885
@@ -13357,7 +13356,7 @@ Historia general del Reino de Chile,capítulo de referencia,24,chile1_711
 Historia general del padre Rosales,tomo citado,III,chile4_10288
 Historia general del padre Rosales,tomo y página de referencia,"tomo II, p. 377",chile1_6780
 Historia general del padre Rosales,página citada,228,chile4_10289
-Historia general del reino de Chile,fecha de publicación,1877,chile4_8950
+Historia general del reino de Chile,año de publicación,1877,chile4_8950
 Historia general del reino de Chile,periodo de escritura,segunda mitad del siglo XVII,chile1_955
 Historia general del reino de Chile,editor de publicación,Benjamín Vicuña Mackenna,chile1_957
 Historia general del reino de Chile,año de primera publicación,1877-1878,chile1_956
@@ -13431,7 +13430,7 @@ Histórica relacion del padre Ovalle,característica,primera historia general y 
 Histórica relacion del reyno de Chile del padre Ovalle,año de publicación en castellano,1646,chile4_14249
 Histórica relacion del reyno de Chile del padre Ovalle,lugar de publicación,Roma,chile4_14250
 Histórica relación del reino de Chile,año de publicación,1646,chile4_14185
-Histórica relación del reino de Chile,fecha de publicación,1646,chile4_8947
+Histórica relación del reino de Chile,año de publicación,1646,chile4_8947
 Histórica relación del reino de Chile,lugar de publicación,Roma,chile4_8948
 Histórica relación del reino de Chile,lugar de publicación,Roma,chile1_6463
 Histórica relación del reino de Chile,año de publicación,1664,chile1_6464
@@ -13896,7 +13895,7 @@ Inundación de Valdivia,número de víctimas indígenas,más de mil y doscientos
 Inundación de Valdivia,fecha de ocurrencia,fines de abril de 1576,chile1_6513
 Invasión de partida de malhechores,lugar de avance,Talcarehue a corta distancia de San Fernando,chile4_5097
 Investigaciones filosóficas sobre americanos,lugar de publicación,Berlin,chile4_19527
-Investigaciones filosóficas sobre americanos,fecha de publicación,1769,chile4_19526
+Investigaciones filosóficas sobre americanos,año de publicación,1769,chile4_19526
 Invierno de 1557,característica climática,excepcionalmente lluvioso,chile1_4412
 Invierno de 1597,característica climática,excepcionalmente lluvioso,chile1_8562
 Inés Córdoba Aguilera,madre de,dos hijas (hijas de Alonso de Ribera),chile4_8241
@@ -16210,7 +16209,7 @@ Juan de Herrera,profesión,licenciado,chile1_5580
 Juan de Hinojosa,cargo de,corregidor de isla de Santa María,chile4_8067
 Juan de Laet,lugar de publicación,Leide,chile1_9061
 Juan de Laet,nacionalidad,flamenco,chile1_7283
-Juan de Laet,fecha de publicación,1640,chile1_9060
+Juan de Laet,año de publicación,1640,chile1_9060
 Juan de Laet,autor de,Indes occidentales,chile1_9059
 Juan de Laet,cargo en,Compañía de las Indias,chile1_9405
 Juan de Laet,autor de,Description des Indes Occidentales,chile1_7282
@@ -16530,7 +16529,7 @@ La Araucana,contenido sobre conquistas incas,canto primero,chile1_692
 La Araucana,año de reimpresión en Salamanca,1574,chile1_5195
 La Araucana,caracterización histórica,primera historia de Chile en el orden cronológico,chile1_5187
 La Araucana,lugar de reimpresión,Amberes,chile1_5196
-La Araucana,fecha de publicación de tercera parte,1589,chile1_4606
+La Araucana,año de publicación de tercera parte,1589,chile1_4606
 La Araucana,año de reimpresión en Amberes,1575,chile1_5197
 La Araucana,lugar de reimpresión,Zaragoza,chile1_5198
 La Araucana,año de reimpresión en Zaragoza,1577,chile1_5199
@@ -16657,7 +16656,7 @@ La doctrina de Monroe,autor de,Francis de Pressensé,chile4_4078
 La guerra Narvaez,autor,M. F. M. de Vargas,chile4_3206
 La guerra de los Salinas,número de capítulo citado,capítulo 39,chile1_1370
 La historia del Mondo Nuovo,lugar de publicación,Venecia,chile1_7705
-La historia del Mondo Nuovo,fecha de publicación,1565,chile1_7706
+La historia del Mondo Nuovo,año de publicación,1565,chile1_7706
 La linguistique,lugar de publicación,Paris,chile1_510
 La linguistique,año de publicación,1876,chile1_511
 La lucerna,fecha de inicio de publicación,11 de julio de 1832,chile4_5483
@@ -16908,7 +16907,7 @@ León XII,característica personal,piedad ejemplar,chile4_4149
 Libanturén,ocupación anterior,servicio a los españoles en tiempo de Valdivia,chile1_4307
 Libro El terremoto de 13 de mayo de 1647,año de publicación,1882,chile4_10646
 Libro Historia política de Chile de Gay,lugar de publicación,París,chile4_2926
-Libro Historia política de Chile de Gay,fecha de publicación,1871,chile4_2925
+Libro Historia política de Chile de Gay,año de publicación,1871,chile4_2925
 Libro Nouveau voyage autour du monde,cantidad de volúmenes,3,chile4_15345
 Libro Nouveau voyage autour du monde,lugar de publicación,París,chile4_15344
 Libro Nouveau voyage autour du monde,autor,La Barbinais le Gentil,chile4_15342
@@ -18762,7 +18761,7 @@ Memoria histórica de Quintanilla,año de presentación,1828,chile4_2614
 Memoria leída en la junta del consulado el 1 de enero de 1808,tema principal de,necesidad de instruir al pueblo para moralizarlo,chile4_19133
 "Memoria que, en cumplimiento de lo que S.M. previene en la real cédula de erección del consulado de Chile",fecha de composición,septiembre de 1797,chile4_15322
 Memoria sobre costa patagónica,publicada en,tomo VI de Colección de documentos para historia argentina,chile4_16514
-Memoria sobre el servicio personal de los indígenas y su colonización,fecha de publicación,1848,chile4_8969
+Memoria sobre el servicio personal de los indígenas y su colonización,año de publicación,1848,chile4_8969
 Memoria sobre el servicio personal de los indígenas y su colonización,lugar de publicación,Santiago,chile4_8970
 Memoria sobre las misiones viajeras en la Araucanía,año de composición,1806,chile1_907
 Memorial al rey sobre descubrimientos,año de presentación aproximado,1609 o 1610,chile1_11225
@@ -18807,7 +18806,7 @@ Memorias de José de Espinosa y Tello,año de publicación,1809,chile4_16511
 Memorias de José de Espinosa y Tello,lugar de publicación,Madrid,chile4_16510
 Memorias de Miller,año de publicación,1828,chile4_4228
 Memorias de Miller,año de reimpresión,1829,chile4_4233
-Memorias de los virreyes del Perú,fecha de publicación,1859,chile4_11959
+Memorias de los virreyes del Perú,año de publicación,1859,chile4_11959
 Memorias de los virreyes del Perú,lugar de publicación,Lima,chile4_11958
 Memorias del general Miller,referencia a encíclica en,capítulo XXXIII del tomo II,chile4_4188
 Memorias del general William Miller,autor de,William Miller,chile1_53
@@ -19129,7 +19128,7 @@ Mil catorce hombres,fecha de acuartelamiento,principios de octubre de 1604,chile
 Mil catorce hombres,lugar de acuartelamiento,Lisboa,chile1_10620
 Milet-Mureau,encargado de,publicación de relaciones y mapas de La Perouse,chile4_16233
 Milet-Mureau,ocupación,general de ingenieros,chile4_16232
-Milicia y descripcion de las Indias,fecha de publicación,1599,chile1_9531
+Milicia y descripcion de las Indias,año de publicación,1599,chile1_9531
 Milicia y descripcion de las Indias,lugar de publicación,Madrid,chile1_9532
 Milicia y descripción de los Indios,año de publicación,1599,chile1_2003
 Milicia y descripción de los Indios,lugar de publicación,Madrid,chile1_2002
@@ -19555,7 +19554,7 @@ Noticias secretas de don Jorge Juan y don Antonio de Ulloa,año de publicación,
 Noticias secretas de don Jorge Juan y don Antonio de Ulloa,lugar de publicación,Londres,chile4_4511
 Noticiosa relación del terremoto de mayo,fecha de escritura,13 de julio de 1647,chile4_10553
 Noticiosa relación del terremoto de mayo,lugar de publicación,Lima,chile4_10552
-Noticiosa relación del terremoto de mayo,fecha de publicación,1647,chile4_10551
+Noticiosa relación del terremoto de mayo,año de publicación,1647,chile4_10551
 Novenos de Chile en ese año,valor de,380 pesos,chile1_10665
 Novus orbis,año de edición latina,1633,chile1_9407
 Nubes magallónicas,nebulosas con nombre de,Magallanes,chile1_1204
@@ -19843,7 +19842,7 @@ Obra Della Storia della missione apostolica E al Chile,autor,secretario Guiseppe
 Obra Historical and descriptive narrative of twenty years residence in South America,lugar de publicación,Londres,chile4_17755
 Obra La misión del vicario apostólico don Juan Muzi,autor,don Luis Barros Borgoño,chile4_3597
 Obra Relación de las paces que capituló con el araucano rebelde el marqués de Baides,lugar de publicación,Madrid,chile4_10076
-Obra Relación de las paces que capituló con el araucano rebelde el marqués de Baides,fecha de publicación,1642,chile4_10075
+Obra Relación de las paces que capituló con el araucano rebelde el marqués de Baides,año de publicación,1642,chile4_10075
 Obra de Lacunza,número de volúmenes en edición París,5 vol. en 12.º,chile4_19944
 Obra de Lacunza,número de volúmenes en edición Londres 1826,3 vol. en 8.º,chile4_19945
 Obra de relación del viaje,fecha de inicio,noviembre de 1795,chile4_16483
@@ -19853,7 +19852,8 @@ Obraje de tejidos de lana,ubicación en,Distrito de Melipilla,chile1_10263
 Obraje de tejidos de lana,ubicación de,Melipilla,chile1_11059
 Obraje de tejidos de lana,propietario,Rey de España,chile1_11060
 Obras completas de Diego Barros Arana,número de volúmenes,dieciséis volúmenes,chile1_2917
-Obras de Sarmiento,fecha de publicación,"Santiago, 1883",chile4_1098
+Obras de Sarmiento,fecha de publicación,1883,chile4_1098
+Obras de Sarmiento,lugar de publicación,Santiago,chile4_1098
 Obras del campamento Las Lomas,costo de,9376 pesos,chile4_17872
 Observaciones sobre el clima de Lima,lugar de primera publicación,Lima,chile4_13262
 Observaciones sobre el clima de Lima,año de reimpresión,1814,chile4_13265
@@ -19959,7 +19959,7 @@ Omar Covarrubias Sabat,rol de,Corrección de originales de Historia General de C
 Omar Covarrubias Sabat,corrector de originales de,Historia General de Chile,chile4_7649
 Omar Covarrubias Sabat,corrector de originales de,Historia general de Chile,chile1_3647
 On history,lugar de publicación,Edimbourgh Review,chile1_3408
-On history,fecha de publicación,mayo de 1828,chile1_3409
+On history,mes de publicación,mayo de 1828,chile1_3409
 Once marineros ingleses,lugar de captura,Inmediaciones de Concepción,chile4_12845
 Once marineros ingleses,fecha de captura en Concepción,12 de noviembre de 1690,chile4_12844
 Operaciones militares,comandantes dejados por Villagrán,capitanes de Cañete y Angol,chile1_5622
@@ -20450,7 +20450,7 @@ Parte Tercera,período temporal,desde 1561 hasta 1610,chile1_7018
 Parte de Guillermo Winter,lugar,Valparaíso,chile4_2618
 Parte de Guillermo Winter,fecha,Enero de 1824,chile4_2617
 Parte oficial de Alvarado,fecha de publicación en Gaceta de Lima,5 de febrero de 1823,chile4_1965
-Parte oficial de Quintanilla,fecha de publicación en Gaceta del Cuzco,Marzo de 1824,chile4_2604
+Parte oficial de Quintanilla,mes de publicación en Gaceta del Cuzco,Marzo de 1824,chile4_2604
 Parte oficial de Quintanilla,lugar de publicación,Gaceta del Cuzco,chile4_2603
 Parte oficial sobre captura de Mackenna,destinatario,Virrey del Perú,chile4_2602
 Parte oficial sobre captura de Mackenna,fecha,2 de diciembre de 1823,chile4_2601
@@ -21736,8 +21736,8 @@ Poetas indígenas,función en entierros,hacer romances para honras del difunto,c
 Poggendorff,autor de,Histoire de la physique,chile4_15327
 Política Indiana,libro referenciado,IV,chile4_9163
 Política Indiana,capítulo referenciado,11,chile4_9164
-Política indiana,fecha de publicación de segunda parte,1639,chile4_13695
-Política indiana,fecha de publicación de primera parte,1629,chile4_13694
+Política indiana,año de publicación de segunda parte,1639,chile4_13695
+Política indiana,año de publicación de primera parte,1629,chile4_13694
 Política indiana,referencia sobre bulas en,libro IV capítulo 25,chile1_8004
 Pomaire,ubicación en,Melipilla,chile4_17963
 Pomaire,tipo de,asiento de indios,chile4_17962
@@ -22870,7 +22870,7 @@ Recopilación de tratados de Chile,año de publicación,1894,chile4_2058
 Recreación filosófica,idioma de traducción,castellano,chile4_19988
 Recreación filosófica,uso,manual científico,chile4_19989
 Recreación filosófica del padre Teodoro de Almeida,idioma original,portugués,chile4_19361
-Recueil des voyages,fecha de publicación,1725,chile1_9052
+Recueil des voyages,año de publicación,1725,chile1_9052
 Recueil des voyages,lugar de publicación,Rouen,chile1_9053
 Recueil des voyages de la compagnie des Indes,lugar de publicación,Rouen,chile1_369
 Recueil des voyages de la compagnie des Indes,año de publicación,1725,chile1_370
@@ -23072,7 +23072,7 @@ Relaciones históricas,año de publicación,1878,chile4_6791
 Relación circunstanciada sobre Chiloé,aprobador,general Borgoño,chile4_717
 Relación de Gaspar de Salazar,lugar de conservación,Biblioteca Nacional de Madrid,chile1_5615
 Relación de Gaspar de Salazar,período descrito,1561 hasta primeros días del gobierno de Bravo de Saravia,chile1_5614
-Relación de Guillermo Antonio Cowley,fecha de publicación,1699,chile4_12629
+Relación de Guillermo Antonio Cowley,año de publicación,1699,chile4_12629
 Relación de Guillermo Antonio Cowley,lugar de publicación,Londres,chile4_12630
 Relación de Ronquillo,publicador,Pascual de Góngora Marmolejo,chile1_4286
 Relación de Ronquillo,conservada en,Biblioteca Nacional de Madrid,chile1_4285
@@ -23083,7 +23083,7 @@ Relación de la renovación de la paz con los araucanos,estado de publicación,i
 Relación de la vida del capitán Domingo de Toral y Valdés,publicación en,"Colección de documentos inéditos para la historia de España (tomo 71, 1879)",chile4_9538
 Relación de la vida del capitán Domingo de Toral y Valdés,ubicación de manuscrito,Biblioteca Nacional de Madrid,chile4_9536
 Relación de la vida del capitán Domingo de Toral y Valdés,número de catálogo,H 55,chile4_9537
-Relación de las paces del Marqués de Baides,fecha de publicación en Madrid,1642,chile4_10108
+Relación de las paces del Marqués de Baides,año de publicación en Madrid,1642,chile4_10108
 Relación de las ventajas alcanzadas por Acuña y Cabrera,estado de conservación,no ha llegado hasta nosotros,chile4_14345
 Relación de los felices sucesos y victorias que lograron las armas de España en el reino de Chile el año 1656,tema de,gobierno de Pedro Porter Casanate,chile4_13130
 Relación de los servicios de Don Alonso de Sotomayor,año de publicación,1620,chile1_10736
@@ -23108,14 +23108,14 @@ Relación del viaje al Magallanes de la fragata de guerra San Martín comandada 
 Relación del viaje al Magallanes de la fragata de guerra San Martín comandada por los paquebotes Santa Casilda y Santa Eulalia para el reconocimiento del estrecho en los años de 1788 y 1789,tipo de documento,libro,chile4_16355
 Relación del viaje de Byron,año de publicación,1767,chile4_16060
 Relación del viaje de Byron,autoría de,Oficial anónimo del buque Dolphin,chile4_16059
-Relación del viaje de Oliverio van Noort,fecha de publicación en holandés,1601,chile1_9315
+Relación del viaje de Oliverio van Noort,año de publicación en holandés,1601,chile1_9315
 Relación del viaje de Oliverio van Noort,fecha de traducción al francés,1602,chile1_9317
 Relación del viaje de Oliverio van Noort,fecha de traducción al alemán,1602,chile1_9318
 Relación del viaje de Oliverio van Noort,lugar de publicación,Amsterdam,chile1_9316
 Relación del viaje de Spilberg,lugar de publicación de traducción francesa,Amsterdam,chile4_8090
 Relación del viaje de Spilberg,lugar de publicación original,ciudad de Leide,chile4_8087
 Relación del viaje de Spilberg,fecha de traducción al latín,1619,chile4_8088
-Relación del viaje de Spilberg,fecha de publicación en holandés,1619,chile4_8086
+Relación del viaje de Spilberg,año de publicación en holandés,1619,chile4_8086
 Relación del viaje de Spilberg,fecha de traducción al francés,1621,chile4_8089
 Relación del viaje de dos carabelas,lugar de publicación,Amsterdam,chile4_8499
 Relación del viaje de dos carabelas,año de publicación,1622,chile4_8498
@@ -23210,7 +23210,7 @@ Restablecimiento del colejio de misioneros de Chillan,fecha de,enero de 1832,chi
 Restauración del estado de Arauco,tema,historia de la campaña de 1665 de don Francisco de Meneses,chile4_14349
 Restauración del estado de Arauco,lugar de publicación,Lima,chile4_11295
 Restauración del estado de Arauco,lugar de publicación,Lima,chile4_14347
-Restauración del estado de Arauco,fecha de publicación,julio de 1665,chile4_11296
+Restauración del estado de Arauco,mes de publicación,julio de 1665,chile4_11296
 Restauración del estado de Arauco,publicación en,tomo XI de la Colección Histórica,chile4_11297
 Restauración del estado de Arauco,gobernador referido,don Francisco de Meneses,chile4_14350
 Restauración del estado de Arauco,año de publicación,1665,chile4_14348
@@ -23251,7 +23251,7 @@ Revolución de Portugal,año de ocurrencia,1640,chile4_10494
 Revolución de Portugal,lugar de inicio,Lisboa,chile4_10122
 Revolución de Portugal,fecha de inicio,1 de diciembre de 1640,chile4_10121
 Revolução do Brazil,lugar de publicación,Río de Janeiro,chile4_5395
-Revolução do Brazil,fecha de publicación,1831,chile4_5394
+Revolução do Brazil,año de publicación,1831,chile4_5394
 Rey Felipe II,fecha de cédula sobre obispado,10 de febrero de 1562,chile1_5867
 Rey Felipe III,emisor de real cédula de fecha,25 de julio de 1620,chile4_8338
 Rey Felipe III,prohibidor de,transferencia y ventas de encomiendas de indios,chile4_8339
@@ -24865,7 +24865,7 @@ Tesorero de renta de tabacos,sueldo,2000 pesos,chile4_18163
 Tesorería de la real hacienda,costo anual,12277 pesos,chile4_18147
 Tesorería jeneral y comisaría de ejército,monto entregado del 1 de enero al 14 de abril de 1825,"35,407 pesos",chile4_3935
 Tesoro de la lengua castellana,lugar de edición,Madrid,chile1_7907
-Tesoro de la lengua castellana,fecha de publicación,1611,chile1_2354
+Tesoro de la lengua castellana,año de publicación,1611,chile1_2354
 Tesoro de la lengua castellana,lugar de publicación,Madrid,chile1_2355
 Tesoro de la lengua castellana,año de edición,1611,chile1_7906
 Tesoro del Perú,fuente de pago,situado del ejército de Chile,chile1_10915
@@ -24904,10 +24904,10 @@ The Missionaries of the Andes,año de publicación,1822,chile1_3570
 The Morning Chronicle,publicador de cargos contra,Antonio José de Irisarri,chile4_4413
 The Southern Star,fecha de primera publicación,23 de mayo de 1807,chile4_66
 The Southern Star,lugar de publicación,Montevideo,chile4_65
-The Star,fecha de publicación sobre reconocimiento,enero de 1825,chile4_4308
+The Star,mes de publicación sobre reconocimiento,enero de 1825,chile4_4308
 The Star,tipo de publicación,periódico de Londres,chile4_4307
 The Times,tipo de publicación,Diario de Londres,chile4_4047
-The Times,fecha de publicación analizada,Febrero de 1824,chile4_4048
+The Times,mes de publicación analizada,Febrero de 1824,chile4_4048
 The famous voyage of sir Francis Drake,año de publicación,1600,chile1_6710
 The famous voyage of sir Francis Drake,autor,Fr. Pretty,chile1_6708
 The famous voyage of sir Francis Drake,lugar de publicación,London,chile1_6709
@@ -25221,7 +25221,7 @@ Tratado de alianza entre Chile y Perú,celebrador por parte chilena,gobierno de 
 "Tratado de amistad, navegación y comercio entre Chile y Perú",fecha de negociación,Septiembre de 1834,chile4_6070
 "Tratado de amistad, navegación y comercio entre Chile y Perú",fecha de firma,20 de enero de 1835,chile4_6069
 Tratado de capitulación de Chiloé,fecha de firma,18 de enero de 1826,chile4_607
-Tratado de confirmaciones reales,fecha de publicación,1630,chile4_13798
+Tratado de confirmaciones reales,año de publicación,1630,chile4_13798
 Tratado de confirmaciones reales,año de publicación,1630,chile1_5439
 Tratado de confirmaciones reales,lugar de publicación,Madrid,chile4_13797
 Tratado de confirmaciones reales,lugar de publicación,Madrid,chile1_5438
@@ -25686,7 +25686,7 @@ Vicario y capellán del campo,sueldo anual de,trescientos ducados,chile1_10295
 Vice-almirante Blanco,refuerzo con,Naves chilenas,chile4_4293
 Vice-almirante Blanco,destino de expedición,Perú,chile4_3567
 Vice-almirante Blanco,título de publicación,Manifiesto general del Blanco,chile4_715
-Vice-almirante Blanco,fecha de publicación de opúsculo,julio de 1836,chile4_714
+Vice-almirante Blanco,mes de publicación de opúsculo,julio de 1836,chile4_714
 Vice-almirante Blanco,cargo de comandante de,bergantín Aguirre,chile4_550
 Vice-almirante Blanco,comandante de,escuadra chilena,chile4_465
 Vice-almirante Blanco Encalada,colaborador,jeneral Zenteno,chile4_3604
@@ -25927,9 +25927,9 @@ Voyage au pôle sud,autor de,Capitán Dumont d'Urville,chile4_5183
 Voyage autour du monde,traductor,Dheunier,chile4_16118
 Voyage autour du monde,número de volúmenes,4 vol. en 4.0,chile4_16117
 Voyage autour du monde,año de publicación,1771,chile4_16083
-Voyage autour du monde,fecha de publicación,1778,chile4_16116
+Voyage autour du monde,año de publicación,1778,chile4_16116
 Voyage autour du monde,lugar de publicación,París,chile4_16002
-Voyage autour du monde,fecha de publicación,1770,chile4_16001
+Voyage autour du monde,año de publicación,1770,chile4_16001
 Voyage autour du monde,lugar de publicación,París,chile4_16082
 Voyage autour du monde,lugar de publicación,París,chile4_16115
 Voyage autour du monde par la Boudeuse et l'Eroile,año de publicación,1771,chile1_354
@@ -25942,7 +25942,7 @@ Voyage de Marseille à Lima et dans les autres lieux des Indes occidentales,luga
 Voyage de Marseille à Lima et dans les autres lieux des Indes occidentales,año de publicación,1720,chile4_15324
 Voyage de la flotte de Nassau,parte de,Recueil des voyages de la compagnie des Indes,chile1_368
 Voyages de François Coreal aux Indes Occidentales,lugar de publicación,Amsterdam,chile4_11775
-Voyages de François Coreal aux Indes Occidentales,fecha de publicación,1722,chile4_11774
+Voyages de François Coreal aux Indes Occidentales,año de publicación,1722,chile4_11774
 Voyageurs anciens et modernes,año de publicación,1855,chile1_1233
 Voyageurs anciens et modernes,editor,M. Ed. Charton,chile1_1231
 Voyageurs anciens et modernes,lugar de publicación,Paris,chile1_1232
@@ -25993,8 +25993,8 @@ William Windham,cargo de,Secretario de la Guerra de Inglaterra,chile4_17858
 Williams Adams,participante de,Expedición de Jacobo Mahu,chile1_9058
 Williams Adams,cargo de,Piloto inglés,chile1_9057
 Winterling,traductor de,Die Araucana al alemán,chile1_5262
-Woodes Rogers,fecha de publicación de su obra,"Londres, 1712",chile4_15119
-Woodes Rogers,autor de,A cruising voyage round the world,chile4_15118
+A cruising voyage round the world,lugar de publicación,Londres,chile4_15119
+A cruising voyage round the world,año de publicación,1712,chile4_15119
 Woodes Rogers,autor de,A cruising voyage round the world,chile4_14746
 Woodes Rogers,cargo de,Capitán comandante de escuadrilla corsaria,chile4_15084
 Yanaconas,testigos de,batalla de Tucapel,chile1_4092
@@ -26143,10 +26143,11 @@ artículo Civilisation de Ch. Letourneau,lugar de publicación,Paris,chile1_253
 artículo Civilisation de Ch. Letourneau,año de publicación,1875,chile1_252
 artículo Los apóstoles,año de publicación,1872,chile4_1055
 artículo Los apóstoles,lugar de publicación,Revista de Santiago,chile4_1056
-artículo Mercurio de Chile,fecha de publicación,marzo,chile4_1037
-artículo de Alfred Russell Wallace sobre el origen de las razas humanas,fecha de publicación,mayo de 1864,chile1_248
-artículo necrológico sobre Bolívar,publicación en,El Araucano números 59 y 60,chile4_5787
-artículo necrológico sobre Bolívar,fecha de publicación,29 de octubre y 5 de noviembre de 1831,chile4_5788
+artículo de Alfred Russell Wallace sobre el origen de las razas humanas,mes de publicación,mayo de 1864,chile1_248
+artículo necrológico sobre Bolívar,publicación en,El Araucano número 59
+artículo necrológico sobre Bolívar,publicación en,El Araucano número 60,chile4_5787
+artículo necrológico sobre Bolívar,fecha de publicación,29 de octubre de 1831
+artículo necrológico sobre Bolívar,fecha de publicación,5 de noviembre de 1831,chile4_5788
 artículo sobre Alonso de Ovalle de Gregorio Víctor Amunátegui,lugar de publicación,Revista de Santiago tomo III,chile4_14202
 artículo sobre Alonso de Ovalle de Gregorio Víctor Amunátegui,año de publicación,1848,chile4_14201
 artículos Don Bernardo O'Higgins - Apuntes históricos de la revolución de Chile,fecha de inicio de publicación en El Araucano,24 de enero de 1834,chile4_6126
@@ -27436,7 +27437,7 @@ decreto de 19 de setiembre de 1823,emisor,director supremo de Chile,chile4_1659
 decreto de 20 de julio de 1823,materia regulada,escuelas en monasterios,chile4_1048
 decreto de 20 de marzo de 1824,materia regulada,enseñanza en conventos de provincias,chile4_1052
 decreto de 23 de junio de 1815,establecimiento de,libertad de imprenta,chile4_974
-decreto de 26 de junio de 1823,fecha de publicación,31 de julio,chile4_1008
+decreto de 26 de junio de 1823,fecha de publicación (sin año),31 de julio,chile4_1008
 decreto de 4 de junio de 1823,materia regulada,asistencia de prebendados de la catedral de Santiago,chile4_1050
 decreto de 6 de diciembre de 1823,materia regulada,visitadores para conventos,chile4_1051
 decreto de amnistía del 1 de mayo de 1824,establecedor de excepción contra,españoles que contribuyeron al tratado de Córdoba,chile4_4097
@@ -27534,7 +27535,7 @@ destacamento comandado por Pedro Cortés,número de integrantes,sesenta hombres,
 destacamento de Bartolomé Pérez de Villagrán,lugar de origen,Conuco,chile4_12117
 destacamento español bajo mando de Pedro Gallegos,destino,Conuco,chile4_12113
 destacamento español bajo mando de Pedro Gallegos,lugar de origen,Concepción,chile4_12112
-diario completo en dos tomos,fecha de publicación,1792,chile4_16007
+diario completo en dos tomos,año de publicación,1792,chile4_16007
 diario completo en dos tomos,lugar de publicación,Berlín,chile4_16008
 diario de Francisco Albo,publicado en,tomo IV de Colección de los viajes i descubrimientos que hicieron por mar los españoles,chile1_1240
 diario de Francisco Albo,publicador,Martín Fernández de Navarrete,chile1_1239
@@ -29361,7 +29362,7 @@ ley sobre interés del dinero,fecha de sanción,14 de setiembre de 1832,chile4_4
 leyenda de ciudad de los Césares,origen del nombre,soldado llamado César,chile1_3279
 leyes españolas,objeto de refuerzo mediante,bandos con disposiciones especiales,chile4_19137
 libro Ingrésiones de los ingleses y de otros pueblos de Europa en la América española,lugar de publicación,Madrid,chile4_8123
-libro Ingrésiones de los ingleses y de otros pueblos de Europa en la América española,fecha de publicación,1883,chile4_8122
+libro Ingrésiones de los ingleses y de otros pueblos de Europa en la América española,año de publicación,1883,chile4_8122
 libro Lisperguer,lugar de publicación,Valparaíso,chile1_10105
 libro Lisperguer,año de publicación,1877,chile1_10106
 libro Literatura de Batres Jáuregui,contenido incluye biografía de,Antonio José de Irisarri,chile4_4450
@@ -29837,7 +29838,7 @@ oidores de la Audiencia,integrantes de,tribunal arbitral para obligaciones tempo
 oidores de la Audiencia y obispo de Santiago,designación de patrona,Virgen de la Victoria,chile4_10359
 oidores de la audiencia de Santiago,emisores de,informes al Rey sobre misiones,chile4_12935
 opúsculo biográfico de San Martín de Vicuña Mackenna,extensión de,98 páginas,chile4_7439
-opúsculo biográfico de San Martín de Vicuña Mackenna,fecha de publicación,1863,chile4_7438
+opúsculo biográfico de San Martín de Vicuña Mackenna,año de publicación,1863,chile4_7438
 opúsculo de Miguel Luis Amunátegui sobre encíclica,lugar de publicación,Santiago,chile4_4176
 opúsculo de Miguel Luis Amunátegui sobre encíclica,año de publicación,1874,chile4_4177
 opúsculo de Vicuña Mackenna sobre San Martín,motivo de publicación,inauguración de la estatua de San Martín en la Alameda de Santiago,chile4_7440
@@ -29898,7 +29899,6 @@ padre Andrés Febres,edad en el año 1767,35 años,chile4_19879
 padre Andrés Febres,profesión religiosa,jesuita,chile4_19880
 padre Andrés Febres,destino misional,misiones de Chile,chile4_19883
 padre Andrés Febres,lugar de residencia posterior a 1767,Italia,chile4_19881
-padre Andrés Febres,fecha de publicación de escrito sobre cuestiones literarias,después de 1782,chile4_19882
 padre Anello Oliva,ocupación,jesuita napolitano,chile1_657
 padre Anello Oliva,autor de,Histoire du Pérou,chile1_658
 padre Arce,autor de proyecto de ley sobre,duración máxima de empleos públicos de dos años,chile4_1320
@@ -30224,7 +30224,7 @@ presidente don Ambrosio de Benavides,cargo de,presidente de Chile,chile4_17349
 presidente interino Álvarez de Acevedo,cargo de,presidente interino de Chile,chile4_17350
 presupuesto del camino carretero Concepción-Buenos Aires,monto,"46,050 pesos",chile4_17592
 primer choque con indios,número de indios enfrentados,trescientos,chile1_2330
-primer mapa de Moraleda,fecha de publicación litográfica,1845,chile4_16900
+primer mapa de Moraleda,año de publicación litográfica,1845,chile4_16900
 primer semestre de 1831,cadáveres sepultados en cementerio de Santiago,1409,chile4_6356
 primer semestre de 1832,cadáveres de párvulos sepultados en Santiago,1041,chile4_6360
 primer semestre de 1832,cadáveres sepultados en cementerio de Santiago,3013,chile4_6359
@@ -30560,7 +30560,7 @@ reino de Chile,relación comercial con,virreinato del Perú,chile4_18571
 rejente Rezabal i Ugarte,miembro de,real audiencia,chile4_17342
 rejente de la real audiencia,cargo de trabajo,gobierno de Chile,chile4_15968
 relaciones de Juan de Herrera,ubicación en,tomo II de la Colección de historiadores de Chile,chile1_3349
-relación anónima La conquista del Perú llamada Nueva Castilla,fecha de publicación,primeros meses de 1534,chile1_1380
+relación anónima La conquista del Perú llamada Nueva Castilla,fecha de publicación,1534,chile1_1380
 relación anónima La conquista del Perú llamada Nueva Castilla,autor probable,Francisco de Jerez,chile1_1382
 relación anónima La conquista del Perú llamada Nueva Castilla,lugar de publicación,Sevilla,chile1_1381
 relación de Francisco Fruger,lugar de reimpresión,Lyon,chile4_13041
@@ -30576,10 +30576,10 @@ relación de Ulrich Schmidt,lugar de primera publicación,Francfort,chile1_1466
 relación de Ulrich Schmidt,fecha de primera publicación,1567,chile1_1465
 relación de la expedición de filibusteros a Panamá en 1671,idioma original,holandés,chile4_11890
 relación de la expedición de filibusteros a Panamá en 1671,lugar de publicación,Amsterdam,chile4_11889
-relación de la expedición de filibusteros a Panamá en 1671,fecha de publicación,1678,chile4_11888
+relación de la expedición de filibusteros a Panamá en 1671,año de publicación,1678,chile4_11888
 relación de mercedes acordadas por virrey del Perú en 1602,publicada en,Colección de documentos inéditos para la historia de España,chile1_9768
 relación de mercedes acordadas por virrey del Perú en 1602,páginas de publicación,500-515,chile1_9767
-relación de viaje de 1765,fecha de publicación,1765,chile4_16004
+relación de viaje de 1765,año de publicación,1765,chile4_16004
 relación de viaje de 1765,lugar de publicación,París,chile4_16005
 relación de viaje de Froger,lugar de publicación,París,chile4_12990
 relación de viaje de Froger,año de publicación,1698,chile4_12991
@@ -30994,7 +30994,7 @@ traducción al francés de la relación de Pigafetta por Amoretti,lugar de publi
 traducción al francés de la relación de Pigafetta por Amoretti,título,Premier voyage autour du monde,chile1_1229
 traducción de libro sobre vacuna por Balmis,año,1803,chile4_17611
 traducción de manuscrito de Molina,entidad publicadora,sociedad Hakluyt,chile1_1827
-traducción de manuscrito de Molina,fecha de publicación,1873,chile1_1825
+traducción de manuscrito de Molina,año de publicación,1873,chile1_1825
 traducción de manuscrito de Molina,lugar de publicación,Londres,chile1_1826
 traducción francesa de Histoire du Pérou de Miguel Cabello Baloa,lugar de publicación,París,chile1_664
 traducción francesa de Histoire du Pérou de Miguel Cabello Baloa,año de publicación,1840,chile1_663
